@@ -1,0 +1,24 @@
+{
+  "survivor": {
+    "host": {
+      "rank": "%",
+      "text": [
+        "/roomvoice {arg}"
+      ]
+    },
+    "dehost": {
+      "rank": "%",
+      "text": [
+        "/roomdevoice {arg}"
+      ]
+    }
+  },
+  "roleplaying": {
+    "5hrpt": {
+      "rank": "%",
+      "text": [
+        "!pick free, tradegy, adventure, romance, fear"
+      ]
+    }
+  }
+}
